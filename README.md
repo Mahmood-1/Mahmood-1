@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mahmood-1
 - 👀 I’m interested in ... Quality assurance and control engineering
-- 🌱 I’m currently learning ... Flutter language
-- 💞️ I’m looking to collaborate on ... UXUI and Kotlin language
+- 💞️ I’m looking to collaborate on UXUI
 - 📫 How to reach me ... Mobile: +972595333781
 
 <!---
